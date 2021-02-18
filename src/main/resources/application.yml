@@ -1,0 +1,13 @@
+server:
+  port: 8011
+
+
+spring:
+  application:
+    name: order
+  profiles:
+    active: single
+
+
+swagger:
+  enable: true
